@@ -7,7 +7,7 @@
       <img src="../assets/loading.gif" alt="" />
       <span>展馆加载中：{{ progress }}%</span>
     </div>
-    <div class="title">老陈科技展馆：点击文字位置即可切换场景位置</div>
+    <div class="title">科技展馆：点击文字位置即可切换场景位置</div>
   </div>
 </template>
 
